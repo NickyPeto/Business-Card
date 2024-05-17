@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="app_description">Business Card</string>
+    <string name="app_version">1.0</string>
+    <string name="card_name">Nicole P.</string>
+    <string name="card_position">Android Developer</string>
+    <string name="email">petovellon@gmail.com</string>
+    <string name="social_media"> https://www.linkedin.com/in/nicole-petovello-ab86b41b2/</string>
+</resources>
