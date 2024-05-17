@@ -47,6 +47,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             BusinessCardTheme {
+                BusinessCard(modifier = Modifier.fillMaxSize().background(color = Color(0XffEAE3F2)))
             }
         }
     }
